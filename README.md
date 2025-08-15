@@ -7,7 +7,7 @@ Sou um Desenvolvedor Full Stack com experiência no mercado de front-end e back-
 
 
 ## 🛠 Habilidades / Experiências
-- **Frontend:** HTML5, CSS3, SCSS, JavaScript, React.
+- **Frontend:** React, Typescript, Tailwind.
 
 - **Backend:** Experiente na construção de APIs e arquiteturas sólidas (Node.js, Express, Java, Spring Boot, Python e PHP).
 
